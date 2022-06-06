@@ -1,0 +1,12 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid red;
+}
+
+#details{
+    /* display: flex; */
+    /* text-align: center; */
+    margin-top: 80px;
+    /* justify-content: center; */
+}
